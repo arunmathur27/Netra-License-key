@@ -8,7 +8,7 @@
   "fps": 15,
   "yolo_cfg": "/home/admin/netra/models/yolo/yolov4-tiny.cfg",
   "yolo_weights": "/home/admin/netra/models/yolo/yolov4-tiny.weights",
-  "coco_names": "/home/admin/netra/yolo/coco.names",
+  "coco_names": "/home/admin/netra/models/yolo/coco.names",
   "detection_classes": ["person","bottle"],
   "recordings_path": "recordings",
   "zip_output_dir": "zips",
