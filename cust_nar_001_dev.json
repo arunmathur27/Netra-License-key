@@ -23,8 +23,8 @@
   "smtp_host": "smtp.hostinger.com",
   "smtp_port": 465,
   "run_mode": "scheduler",
-  "start_time": "04:05",
-  "stop_time": "04:08",
+  "start_time": "06:25",
+  "stop_time": "06:27",
   "schedule_mode": "daily",
   "weekdays": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
   },
